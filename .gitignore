@@ -1,0 +1,11 @@
+# Material del video (en producción, no forma parte del sitio web)
+locutor.mp3
+music.mp3
+videos/
+
+# Herramientas locales de Claude / impeccable
+.claude/
+.impeccable/
+
+# macOS
+.DS_Store
